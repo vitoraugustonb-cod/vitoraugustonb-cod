@@ -314,8 +314,8 @@ root@vitoraugustonb:~$ tail -f /sys/missions/active_objectives.log
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats-fast.vercel.app/api?username=vitoraugustonb-cod&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2fff&text_color=c9d1d9&ring_color=00f5ff&border_radius=12" alt="Estatísticas do GitHub" />
-<img height="185em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoraugustonb-cod&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=12" alt="Linguagens Mais Usadas" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=vitoraugustonb-cod&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2fff&text_color=c9d1d9&ring_color=00f5ff&border_radius=12" alt="Estatísticas do GitHub" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoraugustonb-cod&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=12&hide=html" alt="Linguagens Mais Usadas" />
 
 </div>
 
